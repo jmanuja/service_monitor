@@ -20,7 +20,8 @@ Type of Project : Java Swing
 2) Open Command Line from the directory.
 
 3) excute following command
-      java -jar ServiceMonitor.jar
+     
+     java -jar ServiceMonitor.jar
 
 
 
